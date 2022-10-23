@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "557507906247",
+    "project_id": "fir-favoritemovies-de08e",
+    "storage_bucket": "fir-favoritemovies-de08e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557507906247:android:9fe032cd275c852552cce2",
+        "android_client_info": {
+          "package_name": "com.example.firebase_favorites_movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557507906247-1oenrt7eai2n9levgq4c21q3h527jjvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhFNfgJm2NdS5SRQPPPxII8Z99l4V66Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557507906247-1oenrt7eai2n9levgq4c21q3h527jjvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
